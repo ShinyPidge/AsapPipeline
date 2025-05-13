@@ -1,0 +1,36 @@
+﻿@model ASPUnit20.Models.ModelResults
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+<form method="post" enctype="multipart/form-data">
+    <input type="file" name="file" />
+    <button type="submit">Upload XML</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Member Name</th>
+            <th>Party</th>
+            <th>Donor</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Data != null && Model.Data.Any())
+        {
+            @foreach (var donation in Model.Data)
+            {
+                <tr>
+                    <td>@donation.Name</td>
+                    <td>@donation.Party</td>
+                    <td>@donation.Donor</td>
+                    <td>@donation.Amount</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
