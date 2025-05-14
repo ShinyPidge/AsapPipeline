@@ -1,0 +1,8 @@
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\ASPUnit20.exe
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\appsettings.json
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\ASPUnit20.dll
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\ASPUnit20.deps.json
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\ASPUnit20.runtimeconfig.json
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\ASPUnit20.pdb
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Release\net8.0\publish\HtmlAgilityPack.dll

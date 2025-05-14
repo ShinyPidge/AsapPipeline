@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "rWfkXmX7jg4OkWCVSfiDLMBFXRntY5kCK1g6B/PZLtU=",
+  "Hash": "g6XWlWPMh8Jdz5HNrOu1zVHwJZPDH90diNzzPAG2K0s=",
   "Source": "ASPUnit20",
   "BasePath": "_content/ASPUnit20",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {

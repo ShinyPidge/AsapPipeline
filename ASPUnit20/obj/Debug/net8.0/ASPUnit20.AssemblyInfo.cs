@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPUnit20")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dda1d32e5126d860e8c8e6a1442b056244b333e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPUnit20")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPUnit20")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

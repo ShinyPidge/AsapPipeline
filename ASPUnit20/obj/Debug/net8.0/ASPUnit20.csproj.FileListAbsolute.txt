@@ -31,3 +31,4 @@ C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\obj\Debug\net8.0\ref\ASPUnit20.d
 C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\bin\Debug\net8.0\HtmlAgilityPack.dll
 C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\obj\Debug\net8.0\ASPUnit20.csproj.AssemblyReference.cache
 C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\obj\Debug\net8.0\ASPUnit20.csproj.Up2Date
+C:\Users\owenm\source\repos\ASPUnit20\ASPUnit20\obj\Debug\net8.0\ASPUnit20.sourcelink.json
